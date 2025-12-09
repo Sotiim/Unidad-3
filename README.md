@@ -62,7 +62,9 @@ El video y el informe de Modelo de Negocio (PDF) se encuentran en la carpeta de 
 
 ---
 
-**⚠️ Tareas pendientes para completar la entrega (Actividad 1):**
+## 🛠️ Links de descarga
+* **Unity Play**
+[https://play.unity.com/en/games/36b7b48b-c008-4f47-8782-9d10866f9f95/mini-super-el-rey](https://play.unity.com/en/games/36b7b48b-c008-4f47-8782-9d10866f9f95/mini-super-el-rey)
 
-1.  **Crear y subir la carpeta de Build para PC** (el ejecutable de Windows/Mac).
-2.  **Actualizar el `README.md`** con la ruta exacta de la carpeta de Build para PC.
+* **Itch.io**
+[https://sotiim.itch.io/minisuper-el-rey](https://sotiim.itch.io/minisuper-el-rey)
